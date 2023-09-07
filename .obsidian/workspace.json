@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Como fijar una red.md",
+                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "90848d06fce40296",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/Como fijar una red.md",
+                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/Como fijar una red.md",
+                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/Como fijar una red.md"
+                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md"
               }
             }
           }
@@ -138,27 +138,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "a7fe0833f57060a6",
+  "active": "0509e4c571d9ac0e",
   "lastOpenFiles": [
-    "Redes/Como fijar una red.md",
+    "Redes/CCNA1/Módulo 01/4. Conexiones de Internet.md",
+    "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
+    "Redes/CCNA1/Módulo 01",
+    "images/Pasted image 20230907003300.png",
+    "images/Pasted image 20230907003536.png",
+    "images/Pasted image 20230907003655.png",
+    "Redes/CCNA1/Módulo 01/3. Tipos de Redes.md",
+    "Redes/CCNA1/Módulo 01/2. Representaciones de red y topologías.md",
+    "Redes/CCNA1/Módulo 01/1. Componentes de una Red.md",
+    "images/Pasted image 20230907002927.png",
+    "images/Pasted image 20230907002228.png",
+    "images/Pasted image 20230907001538.png",
+    "images/Pasted image 20230907000911.png",
+    "images/Pasted image 20230907000458.png",
     "Desarrollo Web/React/Untitled",
+    "Untitled",
+    "Pasted image 20230907003652.png",
+    "images/Pasted image 20230907002209.png",
+    "images",
+    "Redes/Introducción a las Redes.md",
+    "Redes/CCNA1",
+    "Lua",
+    "Vim",
+    "Desarrollo Web/Javascript",
+    "Python",
+    "Bash",
+    "Prueba.md",
+    "Redes/Como fijar una red.md",
     "Hacking/Redes.md",
-    "Desarrollo Web/React",
-    "C",
-    "Desarrollo Web",
-    "Redes",
     "Untitled.canvas",
     "2023-09-06.md",
     "Hacking/Untitled.canvas",
-    "Hola.md",
-    "Hacking"
+    "Hola.md"
   ]
 }
