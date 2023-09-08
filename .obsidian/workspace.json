@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
+                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
+                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
+                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/CCNA1/Módulo 01/5. Redes confiables.md"
+                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md"
               }
             }
           }
@@ -148,34 +148,42 @@
       "obsidian-trim-whitespace:Trim whitespace": false
     }
   },
-  "active": "0509e4c571d9ac0e",
+  "active": "a7fe0833f57060a6",
   "lastOpenFiles": [
-    "Redes/CCNA1/Módulo 01/4. Conexiones de Internet.md",
+    "images/Pasted image 20230908005525.png",
+    "images/Pasted image 20230908005335.png",
+    "Redes/CCNA1/Módulo 03/2. Protocolos de Red.md",
+    "Redes/CCNA1/Módulo 03/3. Suits de Protocolos.md",
+    "Redes/CCNA1/Módulo 03/4. Organizaciones Estándares.md",
+    "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
+    "images/Pasted image 20230908005223.png",
+    "Redes/CCNA1/Módulo 03/5. Modelos de Referencia.md",
+    "Redes/CCNA1/Módulo 03/Untitled",
+    "images/Pasted image 20230908004048.png",
+    "images/Pasted image 20230908004052.png",
+    "Pasted image 20230908002959.png.md",
+    "Pasted image 20230908003046.png",
+    "images/Pasted image 20230908003050.png",
+    "Pasted image 20230908003059.png",
+    "Pasted image 20230908002952.png",
+    "Pasted image 20230908002959.png",
+    "images/Pasted image 20230908002817.png",
+    "Redes/CCNA1/Módulo 03/1. Protocolos y Modelos.md",
     "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
+    "Redes/CCNA1/Módulo 03",
+    "Redes/CCNA1/Módulo 02",
+    "Linux",
+    "Redes/CCNA1/Módulo 01/4. Conexiones de Internet.md",
     "Redes/CCNA1/Módulo 01",
-    "images/Pasted image 20230907003300.png",
-    "images/Pasted image 20230907003536.png",
-    "images/Pasted image 20230907003655.png",
     "Redes/CCNA1/Módulo 01/3. Tipos de Redes.md",
     "Redes/CCNA1/Módulo 01/2. Representaciones de red y topologías.md",
     "Redes/CCNA1/Módulo 01/1. Componentes de una Red.md",
-    "images/Pasted image 20230907002927.png",
-    "images/Pasted image 20230907002228.png",
-    "images/Pasted image 20230907001538.png",
-    "images/Pasted image 20230907000911.png",
-    "images/Pasted image 20230907000458.png",
     "Desarrollo Web/React/Untitled",
-    "Untitled",
-    "Pasted image 20230907003652.png",
-    "images/Pasted image 20230907002209.png",
     "images",
     "Redes/Introducción a las Redes.md",
     "Redes/CCNA1",
     "Lua",
     "Vim",
-    "Desarrollo Web/Javascript",
-    "Python",
-    "Bash",
     "Prueba.md",
     "Redes/Como fijar una red.md",
     "Hacking/Redes.md",
