@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29dc36f0809c8424",
+        "id": "c14a6ff2d90a7b66",
         "type": "tabs",
         "children": [
           {
-            "id": "0509e4c571d9ac0e",
+            "id": "605b0b9ef6be23fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
+                "file": "Bash/01. Introducción/3. Comandos internos de bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "90848d06fce40296",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
+                "file": "Bash/01. Introducción/3. Comandos internos de bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
+                "file": "Bash/01. Introducción/3. Comandos internos de bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md"
+                "file": "Bash/01. Introducción/3. Comandos internos de bash.md"
               }
             }
+          },
+          {
+            "id": "d2537399c1a19cb7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,17 +154,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-trim-whitespace:Trim whitespace": false
+      "obsidian-trim-whitespace:Trim whitespace": false,
+      "dbfolder:Create a new database table": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7fe0833f57060a6",
+  "active": "605b0b9ef6be23fa",
   "lastOpenFiles": [
+    "Bash/01. Introducción/2. Expansión de nombres de ficheros y directorios.md",
+    "Bash/01. Introducción/3. Comandos internos de bash.md",
+    "Bash/01. Introducción/1. Conceptos iniciales.md",
+    "images/Pasted image 20230908121420.png",
+    "images/Pasted image 20230908121157.png",
+    "images/Pasted image 20230908121024.png",
+    "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
+    "Bash/01. Introducción a Bash.md",
+    "Bash/01. Introducción",
+    "Python",
     "images/Pasted image 20230908005525.png",
     "images/Pasted image 20230908005335.png",
     "Redes/CCNA1/Módulo 03/2. Protocolos de Red.md",
     "Redes/CCNA1/Módulo 03/3. Suits de Protocolos.md",
     "Redes/CCNA1/Módulo 03/4. Organizaciones Estándares.md",
-    "Redes/CCNA1/Módulo 03/6. Encapsulamiento de Datos.md",
     "images/Pasted image 20230908005223.png",
     "Redes/CCNA1/Módulo 03/5. Modelos de Referencia.md",
     "Redes/CCNA1/Módulo 03/Untitled",
@@ -164,10 +184,6 @@
     "Pasted image 20230908002959.png.md",
     "Pasted image 20230908003046.png",
     "images/Pasted image 20230908003050.png",
-    "Pasted image 20230908003059.png",
-    "Pasted image 20230908002952.png",
-    "Pasted image 20230908002959.png",
-    "images/Pasted image 20230908002817.png",
     "Redes/CCNA1/Módulo 03/1. Protocolos y Modelos.md",
     "Redes/CCNA1/Módulo 01/5. Redes confiables.md",
     "Redes/CCNA1/Módulo 03",
@@ -182,8 +198,6 @@
     "images",
     "Redes/Introducción a las Redes.md",
     "Redes/CCNA1",
-    "Lua",
-    "Vim",
     "Prueba.md",
     "Redes/Como fijar una red.md",
     "Hacking/Redes.md",
